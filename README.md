@@ -59,7 +59,7 @@ is similar to html h1- h6 the h1 being the largest and the h6 being the smallest
 
 ## Git Commands ##
 
-We also learned about using Git which goes hand on hand with terminal and markdown
+We also learned about using Git which goes hand on hand with terminal and markdown. We create a repository and check the box "initialize repository into README.me". After the repository is created there will be a link we can copy for terminal usage. The link is added  to the terminal by using the "git clone" command after git clone add the link and press enter. 
     
 1. git clone (url) - clones repository to your computer
 2. git add(file/directory) - adds change in the working directory to the staging area
